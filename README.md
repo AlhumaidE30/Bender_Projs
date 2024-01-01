@@ -30,6 +30,7 @@ git clone https://github.com/AlhumaidE30/Bender_Projs
 ## Contributing
 
 If you'd like to contribute to this repository by adding your own Blender projects, feel free to fork the repository and submit a pull request.
+Fell free to give it a star if you like it. ⭐
 
 ## Contributers
 
