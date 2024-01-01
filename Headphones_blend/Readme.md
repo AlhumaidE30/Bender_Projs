@@ -1,4 +1,3 @@
-
 # Over-Ear Headphones Blender Model
 
 ## Overview
@@ -14,7 +13,7 @@ This Blender project showcases a detailed 3D model of over-ear headphones. Creat
 ## Preview
 
 ![Headphones Preview](./images/headphones_preview.png)
-*(Add an image showcasing the headphones; replace `./images/headphones_preview.png` with the actual path or URL to your image.)*
+will add images .
 
 ## Getting Started
 
@@ -29,13 +28,15 @@ This Blender project showcases a detailed 3D model of over-ear headphones. Creat
    ```bash
    git clone https://github.com/your-username/headphones-model.git
    ```
+
    ## Usage
 
 1. **Open the Blender file:**
+
    - Launch Blender.
    - Open the `headphones_model.blend` file located in the project directory.
 
-2. **Interact with the Model:**
+1. **Interact with the Model:**
    - Use the mouse to rotate, pan, and zoom to view the headphones from different angles.
    - Adjust sliders or elements for customization.
 
