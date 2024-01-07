@@ -2,21 +2,27 @@
 
 ## Overview
 
-This Blender project is a 3D representation of a personal room, created using Blender [version]. It includes various elements such as furniture, decorations, and lighting to simulate a cozy and personalized space.
+This Blender project is a 3D representation of a personal room, created using Blender. It includes various elements such as furniture, decorations, and lighting to simulate a cozy and personalized space.
 
-## Features
-
-- [List key features of your room, e.g., realistic lighting, detailed furniture, etc.]
 
 ## Preview
 
-[Include one or more images showcasing your room. You can use an external image hosting service and embed the links here.]
+<img src="https://github.com/Zouziszzm/Bender_Projs/blob/main/Room_blend/1704126009594.jpg" />
+<img src="https://github.com/Zouziszzm/Bender_Projs/blob/main/Room_blend/1704126009620.jpg" />
+<img src="https://github.com/Zouziszzm/Bender_Projs/blob/main/Room_blend/1704126009627.jpg" />
+<img src="https://github.com/Zouziszzm/Bender_Projs/blob/main/Room_blend/1704126009633.jpg" />
+<img src="https://github.com/Zouziszzm/Bender_Projs/blob/main/Room_blend/1704126009641.jpg" />
+<img src="https://github.com/Zouziszzm/Bender_Projs/blob/main/Room_blend/1704126009655.jpg" />
 
-## Getting Started
+
+
+Uploading MP4_20231224_181431VLOG.mp4…
+
+
 
 ### Prerequisites
 
-- Blender [version] or higher: [Download Blender](https://www.blender.org/download/)
+- Blender 4.0  or higher: [Download Blender](https://www.blender.org/download/)
 
 ### Installation
 
