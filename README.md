@@ -43,4 +43,4 @@ Fell free to use it but tweak a few thing to suit your need's. just not plain CT
 
 ## Authors
 
-- @AlhumaidE30
+- <a href="https://github.com/AlhumaidE30">@AlhumaidE30</a>
